@@ -1,0 +1,16 @@
+
+.content{
+  text-align: center;
+}
+
+footer{ 
+      background: darkgray; 
+      color: white;
+      margin-top: 50px;
+      text-align: center;
+}
+
+.readMe{
+   display:table; 
+   margin:0 auto;
+}
